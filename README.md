@@ -1,7 +1,7 @@
 # 👋 Hey! I'm Lucas Narloch
 
 🎓 Computer Science student at **PUCPR**  
-💼 Backend development intern at **Smartly Dispositivos Inteligentes**  
+💼 Backend development intern at **SmartLy Fabricação de Dispositivos Inteligentes Ltda.**  
 🚀 Passionate about technology, backend systems, low-level programming, and technical challenges!
 
 ---
