@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey! I'm Lucas Narloch
 
-<!--
-**LucasNarZ/LucasNarZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at **PUCPR**  
+💼 Backend development intern at **Smartly Dispositivos Inteligentes**  
+🚀 Passionate about technology, backend systems, low-level programming, and technical challenges!
 
-Here are some ideas to get you started:
+## 💻 Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**
+- NestJS • PostgreSQL • Docker
+
+**Frontend**
+- ReactJS • TailwindCSS
+
+**Others**
+- C • Compilers • Operating Systems • Git
+
+## 📁 Check out my work
+
+Explore my portfolio with personal and academic projects:
+
+🔗 [lucasnarz.github.io/Portfolio](https://lucasnarz.github.io/Portfolio)
+
+## 📌 Looking for
+
+I'm currently looking for a **junior developer** opportunity, mainly in backend or full-stack development.
+
+## 🌍 Where to find me
+
+- 💼 [LinkedIn](www.linkedin.com/in/lucas-narloch-95436b284) <!-- Replace with your actual profile -->
+- 💻 [GitHub](https://github.com/LucasNarZ)
+- 📫 Email: lucasnarloch123@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and connect!
